@@ -13,9 +13,9 @@ Welcome to my implementation of the classic Pac-Man game in C++! This project ai
 - Power pellets to temporarily turn the tide against ghosts.
 
 ## Screenshots
-![0](https://github.com/Pooria-Heydarian/PacMac/assets/107268679/afb2bd56-1534-4203-a16c-bd619b726c33)
-![1](https://github.com/Pooria-Heydarian/PacMac/assets/107268679/07546c3d-3c5e-4ca9-9df2-f7a001779d3e)
-![2](https://github.com/Pooria-Heydarian/PacMac/assets/107268679/1dfffffe-2498-43fd-a30e-a8d267210c41)
+<img src="https://github.com/Pooria-Heydarian/PacMac/assets/107268679/afb2bd56-1534-4203-a16c-bd619b726c33" width = "32%" alt="Menu">
+<img src="https://github.com/Pooria-Heydarian/PacMac/assets/107268679/07546c3d-3c5e-4ca9-9df2-f7a001779d3e" width = "32%" alt="Manuoy">
+<img src="https://github.com/Pooria-Heydarian/PacMac/assets/107268679/1dfffffe-2498-43fd-a30e-a8d267210c41" width = "32%" alt="tanyuo">
 
 
 
